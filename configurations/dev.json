@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "location": {
-      "value": "eastUS"
+      "value": "centralUS"
     },
     "prefix": {
-      "value": "lmbd-dev"
+      "value": "lambda-dev"
     }
   }
 }
