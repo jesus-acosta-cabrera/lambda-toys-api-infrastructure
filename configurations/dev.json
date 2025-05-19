@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "location": {
-      "value": "centralUS"
+      "value": "eastus2"
     },
     "prefix": {
-      "value": "lambda-dev"
+      "value": "lmbd-dev"
     }
   }
 }
